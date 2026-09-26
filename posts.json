@@ -1,0 +1,5 @@
+[
+  {"id": 1, "titulo": "Empezar con Python", "contenido": "Una primera práctica en consola.", "autor": {"nombre": "Carolina Machado", "bio": "Escribe sobre aprendizaje y tecnología.", "redes_sociales": ["GitHub"]}, "tags": ["python", "aprendizaje"], "estado": "publicado", "categoria": "Programación"},
+  {"id": 2, "titulo": "Ordenar las ideas", "contenido": "Colecciones para organizar publicaciones.", "autor": {"nombre": "Carolina Machado", "bio": "Escribe sobre aprendizaje y tecnología.", "redes_sociales": ["GitHub"]}, "tags": ["datos", "blog"], "estado": "borrador", "categoria": "Organización"},
+  {"id": 3, "titulo": "Publicar una entrada", "contenido": "Una nota sobre el proceso de escritura.", "autor": {"nombre": "Carolina Machado", "bio": "Escribe sobre aprendizaje y tecnología.", "redes_sociales": ["GitHub"]}, "tags": ["blog", "aprendizaje"], "estado": "publicado", "categoria": "Escritura"}
+]
