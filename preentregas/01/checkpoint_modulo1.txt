@@ -1,0 +1,21 @@
+Preentrega 1 — Primer script en Python
+
+Estructura de trabajo:
+python_blog/
+  .venv/                    entorno virtual local, no se publica
+  preentregas/
+    01/
+      post_test.py
+      checkpoint_modulo1.txt
+
+Se creó un entorno virtual con `python -m venv python_blog/.venv` y se ejecutó el script usando el intérprete de ese entorno:
+
+python_blog/.venv/bin/python python_blog/preentregas/01/post_test.py
+
+Salida observada en la terminal:
+Ficha del post
+Título: Primeros pasos con Python
+Autor: Carolina Machado
+Estado: borrador
+
+El script guarda los tres datos del post en variables y los muestra con print(). La ejecución aquí se verificó desde terminal; la configuración de VS Code en una computadora personal debe comprobarse en esa computadora.
